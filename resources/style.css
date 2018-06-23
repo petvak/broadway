@@ -1,9 +1,12 @@
 .top{
-  background-image: url"(./resources/the-flatiron-building.png)";
+  background-image: url("./img.png");
 }
 
 body{
   font-family: helvetica;
+  text-align: center;
+
+
 
 }
 
@@ -13,7 +16,15 @@ h1{
   color: white;
 }
 
-.nav{
+a{
   font-size: 18px;
   color: white;
+}
+.foot{
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+#footer{
+  font-size: 11px;
 }
